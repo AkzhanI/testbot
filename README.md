@@ -28,3 +28,4 @@ Challenges overcome today:
 3. Create a .env file or replace the token in index.js with your own from @BotFather.
 4. Run node index.js
 *Developed by Akzhan as part of my coding journey.*
+planned: bot refinement
